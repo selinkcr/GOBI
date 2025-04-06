@@ -1,2 +1,2 @@
 # GOBI
-Pyhton scripts that we used during GoBi research
+Pyhton scripts and datasets that we used during GoBi research
